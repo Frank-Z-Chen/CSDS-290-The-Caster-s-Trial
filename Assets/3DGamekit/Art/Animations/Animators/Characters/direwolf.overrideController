@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: direwolf
+  m_Controller: {fileID: 9100000, guid: eee661ff082b004488dea60aa9839a1c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 257e753645ba2954ca2439c671e5337b, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 57e022db80ad5a74493c355eb05c133c,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 4fc6949e6b7737f4da8cd2e1ce1d66f1, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2f611c954bd522148bdeeab4c808364c,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d923bfbf69372aa46bdc5d794fe3dde2, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2f611c954bd522148bdeeab4c808364c,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ea28880f3c432b74ba40f56c53f03139, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2f611c954bd522148bdeeab4c808364c,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 79010052a8a8d57429c67f68dab3478f, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 2f611c954bd522148bdeeab4c808364c,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ab5bda48f8799bb4f84ab060e69f60a7, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: a88da5a3b8157f045b8f60dcffbf1f80,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1e35373135394fa45852a3e55ba00889, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 907613c23896ea246833bcbd46b1143b,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 207dc8692867d714ab049ba3b95ff920, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: f1cadfd041009d045980ed8e876cf4e2,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ae9ad6fb845fa9841918e44e215ef2f4, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: cce3c91fba4517943b2998f55b422450,
+      type: 3}
